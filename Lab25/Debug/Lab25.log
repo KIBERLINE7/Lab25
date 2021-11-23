@@ -1,0 +1,8 @@
+﻿  Lab25.cpp
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(35,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(114,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(141,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab25\Lab25\Lab25.cpp(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab25.vcxproj -> C:\Users\val17\source\repos\Lab25\Debug\Lab25.exe
